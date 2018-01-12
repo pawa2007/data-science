@@ -16,9 +16,6 @@ Notes along the Data Science journey
 * :+1: [Statistical Learning _(Stanford - Trevor Hastie, Robert Tibshirani)_](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [Statistics and Probability _(Khan Academy)_](https://www.khanacademy.org/math/statistics-probability)
 * [Statistics and Probability Courses _(cK12)_](https://www.ck12.org/browse/)
-
-
-* :+1: [Driven Data](https://www.drivendata.org/)## Blogs/Websiteshttps://datahack.analyticsvidhya.com/contest/all/
 * [Data School](http://www.dataschool.io/)
 
 ## Competitions
