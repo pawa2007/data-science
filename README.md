@@ -49,3 +49,6 @@ Notes along the Data Science journey
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
+## Videos
+* [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
+
