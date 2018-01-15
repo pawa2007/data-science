@@ -25,7 +25,7 @@ Notes along the Data Science journey
 * [Linear Algebra _(MIT Open CourseWare)_](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 * [Introduction to Computer Science and Programming Using Python _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [Introduction to Computational Thinking and Data Science _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
-* [Machine Learning with R _(Datacamp - Brett Lantz, Nina Zumel, Hank Roark, Zachary Deane-Mayer)_](https://www.datacamp.com/tracks/machine-learning)
+* [Introduction to R _(Datacamp)_](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ## Competitions
 * :+1: [Kaggle](https://www.kaggle.com/)
