@@ -47,5 +47,5 @@ Notes along the Data Science journey
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
-* [scikit-learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
