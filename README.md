@@ -39,6 +39,7 @@ Notes along the Data Science journey
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 * [Data School](http://www.dataschool.io/)
 * [KDNuggets](https://www.kdnuggets.com)
+* [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 ## Datasets
 
