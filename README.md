@@ -18,6 +18,13 @@ Notes along the Data Science journey
 * :+1: [Statistical Learning _(Stanford - Trevor Hastie, Robert Tibshirani)_](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [Statistics and Probability _(Khan Academy)_](https://www.khanacademy.org/math/statistics-probability)
 * [Statistics and Probability Courses _(cK12)_](https://www.ck12.org/browse/)
+* [Machine Learning _(Coursera - Stanford - Andrew Ng)_](https://www.coursera.org/learn/machine-learning/home/info)
+* [Single Variable Calculus _(MIT Open CourseWare)_](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+* [Multi Variable Calculus _(MIT Open CourseWare)_](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+* [Introduction to Probability and Statistics _(MIT Open CourseWare)_](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+* [Linear Algebra _(MIT Open CourseWare)_](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+* [Introduction to Computer Science and Programming Using Python _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+* [Introduction to Computational Thinking and Data Science _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 
 ## Competitions
 * :+1: [Kaggle](https://www.kaggle.com/)
@@ -33,3 +40,8 @@ Notes along the Data Science journey
 * [KDNuggets](https://www.kdnuggets.com)
 
 ## Datasets
+
+## Resources
+* [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
+* [{swirl} Learn R in R](http://swirlstats.com/)
+
