@@ -8,8 +8,11 @@ Notes along the Data Science journey
 * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning _(Trevor Hastie, Robert Tibshirani and Jerome Friedman)_](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [R for Data Science _(Garrett Grolemund, Hadley Wickham)_](http://r4ds.had.co.nz/)
+* [Advanced R _(Hadley Wickham)_](https://adv-r.hadley.nz/)
+* [R Packages _(Hadley Wickham)_](http://r-pkgs.had.co.nz/)
 * [A Little Book of Python for Multivariate Analysis
  _(Yiannis Gatsoulis)_](http://python-for-multivariate-analysis.readthedocs.io/index.html)
+* [OnlineStatBook](http://onlinestatbook.com/2/index.html)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -48,6 +51,7 @@ Notes along the Data Science journey
 * [{swirl} Learn R in R](http://swirlstats.com/)
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
