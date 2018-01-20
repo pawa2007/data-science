@@ -13,6 +13,7 @@ Notes along the Data Science journey
 * [A Little Book of Python for Multivariate Analysis
  _(Yiannis Gatsoulis)_](http://python-for-multivariate-analysis.readthedocs.io/index.html)
 * [OnlineStatBook](http://onlinestatbook.com/2/index.html)
+* [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
