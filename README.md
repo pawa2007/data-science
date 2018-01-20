@@ -14,6 +14,7 @@ Notes along the Data Science journey
  _(Yiannis Gatsoulis)_](http://python-for-multivariate-analysis.readthedocs.io/index.html)
 * [OnlineStatBook](http://onlinestatbook.com/2/index.html)
 * [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
+* [Inferential Statistics](http://vassarstats.net/textbook/)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -30,6 +31,7 @@ Notes along the Data Science journey
 * [Introduction to Computer Science and Programming Using Python _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [Introduction to Computational Thinking and Data Science _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Introduction to R _(Datacamp)_](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Try R _(Codeschool)_](tryr.codeschool.com)
 
 ## Competitions
 * :+1: [Kaggle](https://www.kaggle.com/)
@@ -53,6 +55,8 @@ Notes along the Data Science journey
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [R Tutorial](http://www.cyclismo.org/tutorial/R/)
+* [An R Introduction to Statistics](http://www.r-tutor.com/)
+* [Chris Albon](https://chrisalbon.com/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
