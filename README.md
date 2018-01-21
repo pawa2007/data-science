@@ -61,6 +61,7 @@ Notes along the Data Science journey
 * [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
+* [Hadley Wickham](http://hadley.nz/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
