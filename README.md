@@ -58,9 +58,9 @@ Notes along the Data Science journey
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
 * [Chris Albon](https://chrisalbon.com/)
 * [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
-* [Collateral for "An Introduction to Statistics with Python" _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
+* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-* [J Robert Johansson](http://jrjohansson.github.io)
+* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
