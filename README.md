@@ -57,6 +57,7 @@ Notes along the Data Science journey
 * [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
 * [Chris Albon](https://chrisalbon.com/)
+* [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
