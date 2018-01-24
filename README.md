@@ -48,6 +48,8 @@ Notes along the Data Science journey
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 ## Datasets
+* [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
+* [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
 
 ## Resources
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
