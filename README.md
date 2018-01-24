@@ -66,6 +66,7 @@ Notes along the Data Science journey
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [Hadley Wickham](http://hadley.nz/)
 * [Dr. Yifan Hu](http://yifanhu.net/)
+* [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
