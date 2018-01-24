@@ -50,6 +50,7 @@ Notes along the Data Science journey
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
+* [Matrix Market](http://math.nist.gov/MatrixMarket/index.html)
 
 ## Resources
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
@@ -64,6 +65,7 @@ Notes along the Data Science journey
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [Hadley Wickham](http://hadley.nz/)
+* [Dr. Yifan Hu](http://yifanhu.net/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
