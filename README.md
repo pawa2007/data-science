@@ -47,27 +47,29 @@ Notes along the Data Science journey
 * [KDNuggets](https://www.kdnuggets.com)
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
+## Influencers
+* [Hadley Wickham](http://hadley.nz/)
+* [Dr. Yifan Hu](http://yifanhu.net/)
+* [Mike Bostock](https://bost.ocks.org/mike/)
+* [Chris Albon](https://chrisalbon.com/)
+
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
 * [Matrix Market](http://math.nist.gov/MatrixMarket/index.html)
 
 ## Resources
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
-* [Chris Albon](https://chrisalbon.com/)
 * [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
 * [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
-* [Hadley Wickham](http://hadley.nz/)
-* [Dr. Yifan Hu](http://yifanhu.net/)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
-
