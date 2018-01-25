@@ -68,6 +68,7 @@ Notes along the Data Science journey
 * [Gephi](https://gephi.org/)
 * [Paraview _(Kitware)_](https://www.paraview.org/python/)
 * [Dash _(Plotly)_](https://plot.ly/products/dash/)
+* [RAWGraphs](http://rawgraphs.io/)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
@@ -92,6 +93,7 @@ Notes along the Data Science journey
 * [GlowScript](http://www.glowscript.org/)
 * [Curated Awesome Lists](https://awesome.re/)
 * [Subtleties of Color _(Robert Simmon - NASA)_](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
+* [Density Design Research Labs](http://www.densitydesign.org/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
