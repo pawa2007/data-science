@@ -77,6 +77,7 @@ Notes along the Data Science journey
 * [vpython](http://vpython.org/)
 * [GlowScript](http://www.glowscript.org/)
 * [Curated Awesome Lists](https://awesome.re/)
+* [Subtleties of Color _(Robert Simmon - NASA)_](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
