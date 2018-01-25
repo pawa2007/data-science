@@ -94,6 +94,7 @@ Notes along the Data Science journey
 * [Curated Awesome Lists](https://awesome.re/)
 * [Subtleties of Color _(Robert Simmon - NASA)_](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
 * [Density Design Research Labs](http://www.densitydesign.org/)
+* [Calibro](http://calib.ro/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
