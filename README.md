@@ -74,6 +74,7 @@ Notes along the Data Science journey
 * [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
 * [vpython](http://vpython.org/)
 * [GlowScript](http://www.glowscript.org/)
+* [Curated Awesome Lists](https://awesome.re/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
