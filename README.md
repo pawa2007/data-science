@@ -53,6 +53,7 @@ Notes along the Data Science journey
 * [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
 * [Chris Albon](https://chrisalbon.com/)
 * [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
+* [Bret Victor](http://worrydream.com)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
