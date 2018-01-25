@@ -48,9 +48,9 @@ Notes along the Data Science journey
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 ## Influencers
-* [Hadley Wickham](http://hadley.nz/)
-* [Dr. Yifan Hu](http://yifanhu.net/)
-* [Mike Bostock](https://bost.ocks.org/mike/)
+* [Hadley Wickham _(RStudio)_](http://hadley.nz/)
+* [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
+* [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
 * [Chris Albon](https://chrisalbon.com/)
 
 ## Datasets
@@ -70,6 +70,7 @@ Notes along the Data Science journey
 * [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
+* [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
