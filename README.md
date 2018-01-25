@@ -89,6 +89,7 @@ Notes along the Data Science journey
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 * [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
+* [Other Blocks](https://bl.ocks.org/)
 * [vpython](http://vpython.org/)
 * [GlowScript](http://www.glowscript.org/)
 * [Curated Awesome Lists](https://awesome.re/)
