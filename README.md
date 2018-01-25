@@ -55,6 +55,19 @@ Notes along the Data Science journey
 * [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
 * [Bret Victor](http://worrydream.com)
 
+## Software
+* [Python](https://www.python.org/)
+* [R _(The Comprehensive R Archive Network)_](https://cran.r-project.org/)
+* [R Studio and Shiny](https://www.rstudio.com/)
+* [Python and R based Data Science toolkit _(Anaconda)_](https://www.anaconda.com/download/)
+* [Tableau](https://public.tableau.com)
+* [SAS](https://www.sas.com/en_in/trials.html)
+* [MATLAB _(MathWorks)_](https://www.mathworks.com/products/matlab.html)
+* [Mathematica _(Wolfram)_](http://www.wolfram.com/mathematica)
+* [Octave _(GNU)_](https://www.gnu.org/software/octave/)
+* [Gephi](https://gephi.org/)
+* [Paraview](https://www.paraview.org/python/)
+
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
