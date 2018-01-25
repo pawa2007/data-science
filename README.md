@@ -66,7 +66,8 @@ Notes along the Data Science journey
 * [Mathematica _(Wolfram)_](http://www.wolfram.com/mathematica)
 * [Octave _(GNU)_](https://www.gnu.org/software/octave/)
 * [Gephi](https://gephi.org/)
-* [Paraview](https://www.paraview.org/python/)
+* [Paraview _(Kitware)_](https://www.paraview.org/python/)
+* [Dash _(Plotly)_](https://plot.ly/products/dash/)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
