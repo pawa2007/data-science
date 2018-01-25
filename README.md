@@ -59,6 +59,7 @@ Notes along the Data Science journey
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
 * [Matrix Market](http://math.nist.gov/MatrixMarket/index.html)
+* [enigma](https://public.enigma.com/)
 
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
