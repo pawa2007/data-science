@@ -52,6 +52,7 @@ Notes along the Data Science journey
 * [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
 * [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
 * [Chris Albon](https://chrisalbon.com/)
+* [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
@@ -71,6 +72,8 @@ Notes along the Data Science journey
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 * [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
+* [vpython](http://vpython.org/)
+* [GlowScript](http://www.glowscript.org/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
