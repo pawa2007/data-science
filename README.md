@@ -106,4 +106,4 @@ Notes along the Data Science journey
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
-* [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Co-Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
