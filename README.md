@@ -70,6 +70,7 @@ Notes along the Data Science journey
 * [Dash _(Plotly)_](https://plot.ly/products/dash/)
 * [RAWGraphs](http://rawgraphs.io/)
 * [GitHub Desktop](https://desktop.github.com/)
+* [Rodeo (Python IDE) _(yhat)_](https://www.yhat.com/products/rodeo)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
