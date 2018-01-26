@@ -69,6 +69,7 @@ Notes along the Data Science journey
 * [Paraview _(Kitware)_](https://www.paraview.org/python/)
 * [Dash _(Plotly)_](https://plot.ly/products/dash/)
 * [RAWGraphs](http://rawgraphs.io/)
+* [GitHub Desktop](https://desktop.github.com/)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
@@ -97,6 +98,8 @@ Notes along the Data Science journey
 * [Density Design Research Labs](http://www.densitydesign.org/)
 * [Calibro](http://calib.ro/)
 * [Effectively Using Matplotlib _(Chris Moffitt)_](http://pbpython.com/effective-matplotlib.html)
+* [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
