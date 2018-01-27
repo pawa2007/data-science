@@ -16,6 +16,7 @@ Notes along the Data Science journey
 * [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
 * [Inferential Statistics](http://vassarstats.net/textbook/)
 * [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
+* [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
