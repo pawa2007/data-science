@@ -107,6 +107,8 @@ Notes along the Data Science journey
 * [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 * [Python Crash Course - Python Cheatsheets _(Eric Matthes)_](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [pythontutor.com](http://pythontutor.com/)
+* [28 Jupyter Notebook tips, tricks, and shortcuts _(Dataquest)_](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
