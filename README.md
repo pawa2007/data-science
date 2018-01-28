@@ -110,6 +110,7 @@ Notes along the Data Science journey
 * [pythontutor.com](http://pythontutor.com/)
 * [28 Jupyter Notebook tips, tricks, and shortcuts _(Dataquest)_](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
+* [MATLAB Documentation](https://in.mathworks.com/help/)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
