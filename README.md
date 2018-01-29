@@ -17,6 +17,7 @@ Notes along the Data Science journey
 * [Inferential Statistics](http://vassarstats.net/textbook/)
 * [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
+* [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -111,6 +112,7 @@ Notes along the Data Science journey
 * [28 Jupyter Notebook tips, tricks, and shortcuts _(Dataquest)_](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
+* [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
