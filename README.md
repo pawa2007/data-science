@@ -84,6 +84,10 @@ Notes along the Data Science journey
 * [Matrix Market](http://math.nist.gov/MatrixMarket/index.html)
 * [enigma](https://public.enigma.com/)
 
+## Pretrained Networks
+* [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
+* [ImageNet](http://www.image-net.org/)
+
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
