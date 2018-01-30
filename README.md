@@ -4,6 +4,7 @@ Notes along the Data Science journey
 ## Books
 * :+1: [A Whirlwind Tour of Python _(Jake VanderPlas)_](https://github.com/jakevdp/WhirlwindTourOfPython/blob/6f1daf714fe52a8dde6a288674ba46a7feed8816/Index.ipynb)
 * :+1: [Python Data Science Handbook _(Jake VanderPlas)_](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Collateral from the book Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
 * [OpenIntro _(Open Books)_](https://www.openintro.org)
 * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning _(Trevor Hastie, Robert Tibshirani and Jerome Friedman)_](https://web.stanford.edu/~hastie/ElemStatLearn/)
