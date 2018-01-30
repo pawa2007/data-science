@@ -121,6 +121,7 @@ Notes along the Data Science journey
 * [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
+* [Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
