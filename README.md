@@ -87,8 +87,9 @@ Notes along the Data Science journey
 ## Pretrained Networks
 * [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [ImageNet](http://www.image-net.org/)
-
+)
 ## Resources
+* [Markdown Reference](http://commonmark.org/help/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
