@@ -53,6 +53,7 @@ Notes along the Data Science journey
 ## Influencers
 * [Guido aan Rossum _(Python)_](https://twitter.com/gvanrossum)
 * [Raymond Hettinger _(Python Core Developer)_](https://twitter.com/raymondh)
+* [Wes McKinney *(Pandas)*](http://wesmckinney.com/)
 * [Jake VanderPlas](http://vanderplas.com/)
 * [Hadley Wickham _(RStudio)_](http://hadley.nz/)
 * [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
