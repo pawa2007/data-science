@@ -36,6 +36,7 @@ Notes along the Data Science journey
 * [Introduction to Computational Thinking and Data Science _(edX - MITx - John Guttag, Eric Grimson, Ana Bell)_](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Introduction to R _(Datacamp)_](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Try R _(Codeschool)_](tryr.codeschool.com)
+* [Introduction to Data Science *(Harvard School of Public Health)*](http://datasciencelabs.github.io/)
 
 ## Competitions
 * :+1: [Kaggle](https://www.kaggle.com/)
