@@ -89,7 +89,8 @@ Notes along the Data Science journey
 * [ImageNet](http://www.image-net.org/)
 )
 ## Resources
-* [Markdown Reference](http://commonmark.org/help/)
+* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* :+1:[Markdown Reference](http://commonmark.org/help/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
