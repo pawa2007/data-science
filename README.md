@@ -99,13 +99,18 @@ Notes along the Data Science journey
 * :+1:[Markdown Reference](http://commonmark.org/help/)
 * []()
 
+## Tutorials
+### Python
+   - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+### R
+   - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
+
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
 * [r-statistics - Tutorials on Advanced Stats and Machine Learning with R](http://r-statistics.co/)
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-* [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
 * [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
 * [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
