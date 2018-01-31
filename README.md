@@ -102,6 +102,7 @@ Notes along the Data Science journey
 ## Tutorials
 ### Python
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+   - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
 ### R
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
