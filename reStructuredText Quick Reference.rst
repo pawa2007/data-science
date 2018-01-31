@@ -1,13 +1,11 @@
-Source: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
-Influenced by the Markdown Cheatsheet at commonmark.com : http://commonmark.org/help/
-
-======================================
 reStructuredText (rst) Quick Reference
-======================================
+######################################
 
+Source: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
 
+.. contents::
 
-
+.. section-numbering::
 
 Section Structure
 =================
