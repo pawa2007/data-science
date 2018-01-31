@@ -136,6 +136,7 @@ Notes along the Data Science journey
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
 * [Git Workflow for Contributing to Open Source Projects](http://www.asmeurer.com/git-workflow/)
+* [reStructuredText (rst) Cheatsheet](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
