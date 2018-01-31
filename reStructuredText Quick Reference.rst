@@ -119,12 +119,21 @@ Empty Comment     (".." on a line by itself, with blank lines before & after,
 
 Inline Markup
 =============
+
+::
+
+    *emphasis*; **strong emphasis**; `interpreted text`; `interpreted text
+    with role`:emphasis:; ``inline literal text``; standalone hyperlink,
+    http://docutils.sourceforge.net; named reference, reStructuredText_;
+    `anonymous reference`__; footnote reference, [1]_; citation reference,
+    [CIT2002]_; |substitution|; _`inline internal target`.
+
 *emphasis*; **strong emphasis**; `interpreted text`; `interpreted text
 with role`:emphasis:; ``inline literal text``; standalone hyperlink,
 http://docutils.sourceforge.net; named reference, reStructuredText_;
 `anonymous reference`__; footnote reference, [1]_; citation reference,
 [CIT2002]_; |substitution|; _`inline internal target`.
-
+
 Directive Quick Reference
 =========================
 See <http://docutils.sf.net/docs/ref/rst/directives.html> for full info.
