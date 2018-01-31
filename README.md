@@ -140,3 +140,4 @@ Notes along the Data Science journey
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
+* [Losing your Loops - Fast Numerical Computing with NumPy *(Jake VanderPlas)*](https://www.youtube.com/watch?v=EEUXKG97YRw)
