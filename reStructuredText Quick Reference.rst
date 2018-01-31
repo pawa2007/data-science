@@ -1,7 +1,7 @@
 reStructuredText (rst) Quick Reference
 ######################################
 
-Source: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
+*Source*: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
 
 .. contents::
 
@@ -10,6 +10,12 @@ Source: http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
 Section Structure
 =================
 Section titles are underlined or overlined & underlined.
+
+::
+
+    Section
+    =======
+
 
 Body Elements
 =============
