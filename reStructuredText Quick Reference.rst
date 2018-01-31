@@ -252,7 +252,7 @@ Equivalent to *emphasis*
 :literal:`literal`
 Equivalent to ``literal`` but processes backslash escapes
 
-The area of a circle is :math:`A_\text{c} = (\pi/4) d^2`.
+The area of a circle is :math:`a_1^2 + a_2^2 = a_3^2`.
 Mathematical notation (input in LaTeX format)
    
 :PEP:`287`
