@@ -51,6 +51,8 @@ Notes along the Data Science journey
 * [Data School](http://www.dataschool.io/)
 * [KDNuggets](https://www.kdnuggets.com)
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+* [NumFOCUS *(Sponsors of several Python related projects)*](https://www.numfocus.org/)
+* [PyData](https://pydata.org)
 
 ## Influencers
 * [Guido aan Rossum _(Python)_](https://twitter.com/gvanrossum)
