@@ -63,6 +63,7 @@ Notes along the Data Science journey
 * [Chris Albon](https://chrisalbon.com/)
 * [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
 * [Bret Victor](http://worrydream.com)
+* [Peter Norvig *(Google Research)*](http://norvig.com/)
 
 ## Software
 * [Python](https://www.python.org/)
