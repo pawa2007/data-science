@@ -91,10 +91,13 @@ Notes along the Data Science journey
 ## Pretrained Networks
 * [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [ImageNet](http://www.image-net.org/)
-)
-## Resources
+
+## Documentation
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * :+1:[Markdown Reference](http://commonmark.org/help/)
+* []()
+
+## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
@@ -128,3 +131,4 @@ Notes along the Data Science journey
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
