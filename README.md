@@ -59,7 +59,7 @@ Notes along the Data Science journey
 * [PyData](https://pydata.org)
 
 ## Influencers
-* [Guido aan Rossum _(Python)_](https://twitter.com/gvanrossum)
+* [Guido van Rossum _(Python)_](https://twitter.com/gvanrossum)
 * [Raymond Hettinger _(Python Core Developer)_](https://twitter.com/raymondh)
 * [Wes McKinney *(Pandas)*](http://wesmckinney.com/)
 * [Jake VanderPlas](http://vanderplas.com/)
