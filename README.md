@@ -60,6 +60,7 @@ Notes along the Data Science journey
 * [Wes McKinney *(Pandas)*](http://wesmckinney.com/)
 * [Jake VanderPlas](http://vanderplas.com/)
 * [Hadley Wickham _(RStudio)_](http://hadley.nz/)
+* [Tom Caswell *(Matplotlib)*](https://github.com/tacaswell)
 * [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
 * [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
 * [Chris Albon](https://chrisalbon.com/)
@@ -94,7 +95,7 @@ Notes along the Data Science journey
 * [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [ImageNet](http://www.image-net.org/)
 
-## Documentation
+## Document Generation
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * :+1:[Markdown Reference](http://commonmark.org/help/)
 * []()
