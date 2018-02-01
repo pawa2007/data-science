@@ -148,6 +148,7 @@ Notes along the Data Science journey
 * [Python Recipes](https://github.com/ActiveState/code)
 
 ## Videos
+* [Python 3000](https://youtu.be/s-fKcZ5pKLE)
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
