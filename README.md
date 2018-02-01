@@ -122,8 +122,9 @@ Notes along the Data Science journey
 * [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 
 ## Important Python PEPs
-* [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-* [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
 
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
