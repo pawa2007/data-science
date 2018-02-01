@@ -20,6 +20,10 @@ Notes along the Data Science journey
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
 * [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
 
+## 
+* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
+* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
+
 ## MOOCS
 * :+1: [Intro to Python for Data Science
  _(Datacamp - Filip Schouwenaars)_](https://www.datacamp.com/courses/intro-to-python-for-data-science)
@@ -96,17 +100,22 @@ Notes along the Data Science journey
 * [ImageNet](http://www.image-net.org/)
 
 ## Document Generation
-* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
-* :+1:[Markdown Reference](http://commonmark.org/help/)
-* []()
+* [Sphinx](http://www.sphinx-doc.org)
 
 ## Tutorials
+* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 ### Python
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
    - [Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
 ### R
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
+
+## Cheatsheets
+* :+1:[Markdown Reference](http://commonmark.org/help/)
+* [reStructuredText (rst) Cheatsheet](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt)
+* [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
@@ -116,8 +125,6 @@ Notes along the Data Science journey
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
 * [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
-* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
-* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 * [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
 * [Other Blocks](https://bl.ocks.org/)
@@ -128,19 +135,19 @@ Notes along the Data Science journey
 * [Density Design Research Labs](http://www.densitydesign.org/)
 * [Calibro](http://calib.ro/)
 * [Effectively Using Matplotlib _(Chris Moffitt)_](http://pbpython.com/effective-matplotlib.html)
-* [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-* [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 * [Python Crash Course - Python Cheatsheets _(Eric Matthes)_](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [pythontutor.com](http://pythontutor.com/)
 * [28 Jupyter Notebook tips, tricks, and shortcuts _(Dataquest)_](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
-* [Git Workflow for Contributing to Open Source Projects](http://www.asmeurer.com/git-workflow/)
-* [reStructuredText (rst) Cheatsheet](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
 * [Losing your Loops - Fast Numerical Computing with NumPy *(Jake VanderPlas)*](https://www.youtube.com/watch?v=EEUXKG97YRw)
+
+## Community Contribution
+* [Git Workflow for Contributing to Open Source Projects](http://www.asmeurer.com/git-workflow/)
+* [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
