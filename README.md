@@ -110,11 +110,11 @@ Notes along the Data Science journey
 
 ## Tutorials
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
-### Python
+* **Python**
    - :+1:[Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
-### R
+* **R**
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 ## Cheatsheets
