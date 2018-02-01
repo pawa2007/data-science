@@ -120,6 +120,10 @@ Notes along the Data Science journey
 * [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 
+## Important Python PEPs
+* [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+
 ## Resources
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
