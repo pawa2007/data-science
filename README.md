@@ -24,6 +24,7 @@ Notes along the Data Science journey
 * [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
 * [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [Collateral from the book Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
+* [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition *(Kevin Sheppard)*](https://www.kevinsheppard.com/Python_for_Econometrics)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -75,6 +76,7 @@ Notes along the Data Science journey
 * [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
 * [Bret Victor](http://worrydream.com)
 * [Peter Norvig *(Google Research)*](http://norvig.com/)
+* [Kevin Sheppard](https://www.kevinsheppard.com)
 
 ## Software
 * [Python](https://www.python.org/)
