@@ -145,7 +145,7 @@ Notes along the Data Science journey
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
 * [TOC of "Modern Python: Big Ideas and Little Code in Python" Live Lesson *(Raymond Hettinger)*](https://www.amazon.com/Modern-Python-Ideas-Little-LiveLessons/dp/B0782H9R1B)
-* [Python Recipes](http://code.activestate.com/recipes/langs/python/)
+* [Python Recipes](https://github.com/ActiveState/code)
 
 ## Videos
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
