@@ -101,12 +101,14 @@ Notes along the Data Science journey
 
 ## Tutorials
 ### Python
+   - :+1:[The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
 ### R
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 ## Resources
+* [The History of Python *(Guido van Rossum)*](http://python-history.blogspot.in/2009/01/introduction-and-overview.html)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
