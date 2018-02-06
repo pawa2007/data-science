@@ -97,18 +97,21 @@ Notes along the Data Science journey
 ## Documentation
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * :+1:[Markdown Reference](http://commonmark.org/help/)
-* []()
+* [NumPy/SciPy Docstring Standard](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
 ## Tutorials
 ### Python
    - :+1:[The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
+   - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+   - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 ### R
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 ## Resources
 * [The History of Python *(Guido van Rossum)*](http://python-history.blogspot.in/2009/01/introduction-and-overview.html)
+* [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
 * [{swirl} Learn R in R](http://swirlstats.com/)
@@ -139,6 +142,7 @@ Notes along the Data Science journey
 * [Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
 
 ## Videos
+* [Python Related Videos *(pyvideo.org)*](http://pyvideo.org/)
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
