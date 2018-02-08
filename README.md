@@ -84,6 +84,12 @@ Notes along the Data Science journey
 * [GitHub Desktop](https://desktop.github.com/)
 * [Rodeo (Python IDE) _(yhat)_](https://www.yhat.com/products/rodeo)
 
+## Important Modules/Packages/Libraries
+### Python
+   - [NumPy, SciPy, Matplotlib, pandas, IPython](https://scipy.org/)
+   - [scikit-image](http://scikit-image.org/)
+   - [scikit-learn](http://scikit-learn.org)
+
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
@@ -102,8 +108,10 @@ Notes along the Data Science journey
 ## Tutorials
 ### Python
    - :+1:[The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
+   - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
+   - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
    - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
    - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 ### R
