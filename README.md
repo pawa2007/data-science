@@ -4,7 +4,6 @@ Notes along the Data Science journey
 ## Books
 * :+1: [A Whirlwind Tour of Python _(Jake VanderPlas)_](https://github.com/jakevdp/WhirlwindTourOfPython/blob/6f1daf714fe52a8dde6a288674ba46a7feed8816/Index.ipynb)
 * :+1: [Python Data Science Handbook _(Jake VanderPlas)_](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Collateral from the book Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
 * [OpenIntro _(Open Books)_](https://www.openintro.org)
 * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning _(Trevor Hastie, Robert Tibshirani and Jerome Friedman)_](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -19,6 +18,13 @@ Notes along the Data Science journey
 * [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
 * [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
+* [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
+
+## Collateral for Books
+* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
+* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
+* [Collateral from the book Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
+* [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition *(Kevin Sheppard)*](https://www.kevinsheppard.com/Python_for_Econometrics)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -55,10 +61,14 @@ Notes along the Data Science journey
 * [PyData](https://pydata.org)
 
 ## Influencers
-* [Guido aan Rossum _(Python)_](https://twitter.com/gvanrossum)
+* [Guido van Rossum _(Python)_](https://twitter.com/gvanrossum)
 * [Raymond Hettinger _(Python Core Developer)_](https://twitter.com/raymondh)
-* [Wes McKinney *(Pandas)*](http://wesmckinney.com/)
+* [Travis Oliphant *(NumPy, SciPy, Continuum)*](https://github.com/teoliphant)
+* [Tom Caswell *(matplotlib)*](https://github.com/tacaswell)
+* [Michael Wascom *(seaborn)*](https://github.com/mwaskom)
+* [Wes McKinney *(pandas)*](http://wesmckinney.com/)
 * [Jake VanderPlas](http://vanderplas.com/)
+* [Chris Parmer *(Plotly, Dash)*](https://github.com/chriddyp)
 * [Hadley Wickham _(RStudio)_](http://hadley.nz/)
 * [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
 * [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
@@ -66,6 +76,7 @@ Notes along the Data Science journey
 * [Bruce Sherwood _(vpython / GlowScript)_](https://brucesherwood.net/)
 * [Bret Victor](http://worrydream.com)
 * [Peter Norvig *(Google Research)*](http://norvig.com/)
+* [Kevin Sheppard](https://www.kevinsheppard.com)
 
 ## Software
 * [Python](https://www.python.org/)
@@ -100,6 +111,7 @@ Notes along the Data Science journey
 * [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [ImageNet](http://www.image-net.org/)
 
+<<<<<<< HEAD
 ## Documentation
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * :+1:[Markdown Reference](http://commonmark.org/help/)
@@ -115,7 +127,30 @@ Notes along the Data Science journey
    - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
    - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 ### R
+=======
+## Document Generation
+* [Sphinx](http://www.sphinx-doc.org)
+
+## Tutorials
+* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* **Python**
+   - :+1:[Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
+   - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+   - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
+* **R**
+>>>>>>> 71695885295bba6fa8732ab2b8ac802c1f630142
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
+
+## Cheatsheets
+* :+1:[Markdown Reference](http://commonmark.org/help/)
+* [reStructuredText (rst) Cheatsheet](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt)
+* [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
+
+## Important Python PEPs
+* [PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
 
 ## Resources
 * [The History of Python *(Guido van Rossum)*](http://python-history.blogspot.in/2009/01/introduction-and-overview.html)
@@ -127,8 +162,6 @@ Notes along the Data Science journey
 * [scikit-learn Algorithm Cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [An R Introduction to Statistics](http://www.r-tutor.com/)
 * [Datacamp Tutorials](https://www.datacamp.com/community/tutorials)
-* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
-* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
 * [A Gallery of Large Graphs _(Dr. Yifan Hu)_](http://yifanhu.net/GALLERY/GRAPHS/index.html)
 * [Mike Bostock's Blocks](https://bl.ocks.org/mbostock)
 * [Other Blocks](https://bl.ocks.org/)
@@ -139,19 +172,26 @@ Notes along the Data Science journey
 * [Density Design Research Labs](http://www.densitydesign.org/)
 * [Calibro](http://calib.ro/)
 * [Effectively Using Matplotlib _(Chris Moffitt)_](http://pbpython.com/effective-matplotlib.html)
-* [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-* [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
 * [Python Crash Course - Python Cheatsheets _(Eric Matthes)_](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [pythontutor.com](http://pythontutor.com/)
 * [28 Jupyter Notebook tips, tricks, and shortcuts _(Dataquest)_](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Making Publication Ready Python Notebooks _(Julius Schulz)_](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 * [Statistics and Machine Learning Toolbox _(MATLAB)_](https://in.mathworks.com/help/stats/index.html)
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
-* [Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
+* [TOC of "Modern Python: Big Ideas and Little Code in Python" Live Lesson *(Raymond Hettinger)*](https://www.amazon.com/Modern-Python-Ideas-Little-LiveLessons/dp/B0782H9R1B)
+* [Python Recipes](https://github.com/ActiveState/code)
 
 ## Videos
+<<<<<<< HEAD
 * [Python Related Videos *(pyvideo.org)*](http://pyvideo.org/)
+=======
+* [Python 3000 *(Guido van Rossum)*](https://youtu.be/s-fKcZ5pKLE)
+>>>>>>> 71695885295bba6fa8732ab2b8ac802c1f630142
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
 * [Losing your Loops - Fast Numerical Computing with NumPy *(Jake VanderPlas)*](https://www.youtube.com/watch?v=EEUXKG97YRw)
+
+## Community Contribution
+* [Git Workflow for Contributing to Open Source Projects](http://www.asmeurer.com/git-workflow/)
+* [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
