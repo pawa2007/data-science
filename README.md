@@ -111,7 +111,6 @@ Notes along the Data Science journey
 * [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [ImageNet](http://www.image-net.org/)
 
-<<<<<<< HEAD
 ## Documentation
 * :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * :+1:[Markdown Reference](http://commonmark.org/help/)
@@ -127,7 +126,6 @@ Notes along the Data Science journey
    - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
    - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 ### R
-=======
 ## Document Generation
 * [Sphinx](http://www.sphinx-doc.org)
 
@@ -138,7 +136,6 @@ Notes along the Data Science journey
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
 * **R**
->>>>>>> 71695885295bba6fa8732ab2b8ac802c1f630142
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 ## Cheatsheets
@@ -182,11 +179,8 @@ Notes along the Data Science journey
 * [Python Recipes](https://github.com/ActiveState/code)
 
 ## Videos
-<<<<<<< HEAD
 * [Python Related Videos *(pyvideo.org)*](http://pyvideo.org/)
-=======
 * [Python 3000 *(Guido van Rossum)*](https://youtu.be/s-fKcZ5pKLE)
->>>>>>> 71695885295bba6fa8732ab2b8ac802c1f630142
 * [Machine Learning Lectures by Andrew Ng at Stanford](https://www.youtube.com/playlist?list=PL3hvIXeVZYD6JBm4S0cAlryY2ow9oIm3_)
 * [Transforming Code into Beautiful, Idiomatic Python _(Raymond Hettinger - Core Developer of Python)_](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Inside NumPy *(Nathaniel Smith)*](https://www.youtube.com/watch?v=fowHwlpGb34)
