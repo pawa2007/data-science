@@ -21,10 +21,11 @@ Notes along the Data Science journey
 * [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
 
 ## Collateral for Books
-* [Collateral for "An Introduction to Statistics with Python" book _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
-* [Collateral for "Numerical Python" book _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
-* [Collateral from the book Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
+* [An Introduction to Statistics with Python _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
+* [Numerical Python _(J Robert Johansson)_](http://jrjohansson.github.io/numericalpython.html)
+* [Python for Data Analysis, 2nd Edition *(Wes McKinney)*](https://github.com/wesm/pydata-book)
 * [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Third Edition *(Kevin Sheppard)*](https://www.kevinsheppard.com/Python_for_Econometrics)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow *(Aurélien Géron)*](https://github.com/ageron/handson-ml)
 
 ## MOOCS
 * :+1: [Intro to Python for Data Science
@@ -69,7 +70,8 @@ Notes along the Data Science journey
 * [Wes McKinney *(pandas)*](http://wesmckinney.com/)
 * [Jake VanderPlas](http://vanderplas.com/)
 * [Chris Parmer *(Plotly, Dash)*](https://github.com/chriddyp)
-* [Hadley Wickham _(RStudio)_](http://hadley.nz/)
+* [LeLand Wilkinson *(The Grammar of Graphics)*](https://www.cs.uic.edu/~wilkinson/index.html)
+* [Hadley Wickham _(ggplot2, RStudio)_](http://hadley.nz/)
 * [Dr. Yifan Hu _(Yahoo)_](http://yifanhu.net/)
 * [Mike Bostock  _(d3js)_](https://bost.ocks.org/mike/)
 * [Chris Albon](https://chrisalbon.com/)
@@ -117,26 +119,21 @@ Notes along the Data Science journey
 * [NumPy/SciPy Docstring Standard](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
 ## Tutorials
-### Python
+* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* **Python**
    - :+1:[The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
+   - :+1:[Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
    - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
    - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
    - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
    - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-### R
-## Document Generation
-* [Sphinx](http://www.sphinx-doc.org)
-
-## Tutorials
-* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
-* **Python**
-   - :+1:[Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
-   - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
-   - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
 * **R**
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
+
+## Document Generation
+* [Sphinx](http://www.sphinx-doc.org)
 
 ## Cheatsheets
 * :+1:[Markdown Reference](http://commonmark.org/help/)
@@ -148,6 +145,10 @@ Notes along the Data Science journey
 * [PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [PEP 257: Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 * [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
+
+## Important Python References
+* [datetime formats](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
+* [pandas datetime Frequency Aliases](http://pandas.pydata.org/pandas-docs/stable/timeseries.html#timeseries-offset-aliases)
 
 ## Resources
 * [The History of Python *(Guido van Rossum)*](http://python-history.blogspot.in/2009/01/introduction-and-overview.html)
