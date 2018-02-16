@@ -44,6 +44,7 @@ Notes along the Data Science journey
 * [Introduction to R _(Datacamp)_](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Try R _(Codeschool)_](tryr.codeschool.com)
 * [Introduction to Data Science *(Harvard School of Public Health)*](http://datasciencelabs.github.io/)
+* [An Introduction to Interactive Programming in Python (Part 1) *(Coursera - Rice University)*](https://www.coursera.org/learn/interactive-python-1)
 
 ## Competitions
 * :+1: [Kaggle](https://www.kaggle.com/)
@@ -97,11 +98,14 @@ Notes along the Data Science journey
 * [GitHub Desktop](https://desktop.github.com/)
 * [Rodeo (Python IDE) _(yhat)_](https://www.yhat.com/products/rodeo)
 
-## Important Modules/Packages/Libraries
+## Important Modules/Packages/Libraries/Frameworks
 ### Python
    - [NumPy, SciPy, Matplotlib, pandas, IPython](https://scipy.org/)
    - [scikit-image](http://scikit-image.org/)
    - [scikit-learn](http://scikit-learn.org)
+   - [Bottle](https://bottlepy.org/docs/dev/)
+   - [Flask, Jinja 2, Pygments, Sphinx, Werkzeug](http://www.pocoo.org/)
+   - [Django](http://www.pocoo.org/)
 
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
@@ -129,6 +133,7 @@ Notes along the Data Science journey
    - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
    - [pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
    - [pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
+   - [Real Python Tutorials](https://realpython.com/blog/)
 * **R**
    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
