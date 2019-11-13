@@ -110,6 +110,7 @@ Notes along the Data Science journey
 ## Datasets
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 * [UCI Network Data Repository](https://networkdata.ics.uci.edu/)
+* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets)
 * [Matrix Market](http://math.nist.gov/MatrixMarket/index.html)
 * [enigma](https://public.enigma.com/)
 
