@@ -19,6 +19,7 @@ Notes along the Data Science journey
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
 * [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
 * [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
+* [A Byte of Python (Swaroop C H)](https://python.swaroopch.com/)
 
 ## Collateral for Books
 * [An Introduction to Statistics with Python _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
