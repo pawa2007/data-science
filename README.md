@@ -141,6 +141,7 @@ Notes along the Data Science journey
 
 ## Document Generation
 * [Sphinx](http://www.sphinx-doc.org)
+* [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
 
 ## Cheatsheets
 * :+1:[Markdown Reference](http://commonmark.org/help/)
