@@ -65,6 +65,7 @@ Notes along the Data Science journey
 
 ## Influencers
 * [Guido van Rossum _(Python)_](https://twitter.com/gvanrossum)
+* [Eric Holscher _(ReadTheDocs, WriteTheDocs)_](https://www.ericholscher.com)
 * [Raymond Hettinger _(Python Core Developer)_](https://twitter.com/raymondh)
 * [Travis Oliphant *(NumPy, SciPy, Continuum)*](https://github.com/teoliphant)
 * [Tom Caswell *(matplotlib)*](https://github.com/tacaswell)
@@ -142,6 +143,8 @@ Notes along the Data Science journey
 ## Document Generation
 * [Sphinx](http://www.sphinx-doc.org)
 * [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
+* [ReadTheDocs](https://readthedocs.org)
+* [WriteTheDocs](http://www.writethedocs.org)
 
 ## Cheatsheets
 * :+1:[Markdown Reference](http://commonmark.org/help/)
